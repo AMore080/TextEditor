@@ -12,6 +12,10 @@ Use this application as just another text editor. Like notepad!
 - Babel
 - IDB 
 
+# Screenshots
+![image](https://user-images.githubusercontent.com/105891447/204060914-4e21563b-6e76-45ff-afd9-2da776a34a14.png)
+![image](https://user-images.githubusercontent.com/105891447/204060927-ff16aacc-178f-4d64-abad-fc0ff792a2b0.png)
+
 # Installation
 Initialize with 
 ```
